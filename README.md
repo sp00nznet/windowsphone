@@ -13,9 +13,3 @@ Raspberry Pi 4 UPSPACKv2 - https://github.com/rcdrones/UPSPACK_V2
 Half-Life 2 running: 
 ![alt text](https://github.com/sp00nznet/windowsphone/blob/master/Test001%20-%20HL2%20runs!.jpg "Half Life 2 running")
 
-Hand Held
-![alt text](https://github.com/sp00nznet/windowsphone/blob/master/Test005%20-%20Portable!.jpg "Portability Test")
-
-Temporary Enclosure
-![alt text](https://github.com/sp00nznet/windowsphone/blob/master/Test006%20-%20In%20a%20box!.jpg "Balsa wood enclosure")
-
