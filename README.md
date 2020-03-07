@@ -19,5 +19,5 @@ and a pair of Nintento JoyCons for controllers
 ## Windows Phone in action 
 
 Half-Life 2 running: 
-![alt text](https://github.com/sp00nznet/windowsphone/blob/master/Test001%20-%20HL2%20runs!.jpg "Half Life 2 running")
+![alt text](https://github.com/sp00nznet/windowsphone/blob/master/pics/Test001%20-%20HL2%20runs!.jpg "Half Life 2 running")
 
