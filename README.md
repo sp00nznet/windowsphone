@@ -19,7 +19,7 @@ and a pair of Nintento JoyCons for controllers
 ## Windows Phone in action 
 
 Half-Life 2 running: 
-![alt text](https://github.com/sp00nznet/windowsphone/blob/master/Test001%20-%20HL2%20runs!.jpg "Half Life 2 running")
+![alt text](https://github.com/sp00nznet/windowsphone/blob/master/pics/Test001%20-%20HL2%20runs!.jpg "Half Life 2 running")
 
 With JoyCons and the Big Joy version
-![alt text](https://github.com/sp00nznet/windowsphone/blob/master/pics/joy_con_and_big_joy.jpg "Phone plus joycon slots version and Big Joy version")
+![alt text](https://github.com/sp00nznet/windowsphone/blob/master/pics/joy_con_and_big_joy.jpg "Phone plus joycon slots version and Big Joy version") 
