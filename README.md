@@ -10,6 +10,12 @@ ZTE MF833V 4G LTE modem - https://www.ztedevices.com/en/product/data-card/data-c
 
 Raspberry Pi 4 UPSPACKv2 - https://github.com/rcdrones/UPSPACK_V2  
 
+## Split into two versions - Controller and without
+
+Controller version replaces the UpCore for an Awow mp18 https://www.awow-tech.com/product/awow-mp18-4gb32gb/
+
+and a pair of Nintento JoyCons for controllers
+
 ## Windows Phone in action 
 
 Half-Life 2 running: 
