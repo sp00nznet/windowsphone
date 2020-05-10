@@ -16,6 +16,8 @@ Controller version replaces the UpCore for an Awow mp18 https://www.awow-tech.co
 
 and a pair of Nintento JoyCons for controllers
 
+The stl folder has cases for these. Part1-4 are the controller version and the Windows Phone case is just the phone.
+
 ## Windows Phone in action 
 
 Half-Life 2 running: 
